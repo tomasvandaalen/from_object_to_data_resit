@@ -1,0 +1,661 @@
+PublicationDate,DataSource,Country,Country_code,emissions,Format_name,Notation,Parent_sector_code,Pollutant_name,Sector_code,Sector_name,Unit,Year
+20183105,EEA,Austria,AT,64.53313,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Austria,AT,13504.64823,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Austria,AT,21841.72027,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Austria,AT,15.58305,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Austria,AT,156.33523,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Austria,AT,12.20229,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Austria,AT,32.44314,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Austria,AT,15.61271,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Austria,AT,10.82015,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Austria,AT,556.35505,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Austria,AT,18245.27182,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Austria,AT,22754.59747,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Austria,AT,118.52389,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Austria,AT,149.59624,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Austria,AT,47.90283,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Austria,AT,224.59194,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Austria,AT,68.37814,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Belgium,BE,174.93359,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Belgium,BE,365.25002,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Belgium,BE,457.3771,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Belgium,BE,16.01443,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Belgium,BE,18.09397,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Belgium,BE,108.8169,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Belgium,BE,10.02387,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Belgium,BE,25751.78819,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Belgium,BE,66.92599,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Belgium,BE,16.77833,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Belgium,BE,229.44619,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Belgium,BE,183.63015,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Belgium,BE,25593.2248,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Belgium,BE,450.23256,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Belgium,BE,410.82694,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Belgium,BE,20046.0367,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Belgium,BE,234.93859,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Switzerland,CH,16004.34628,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Switzerland,CH,29.1441,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Switzerland,CH,31.50269,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Bulgaria,BG,136.25644,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Belgium,BE,262.75501,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Belgium,BE,150.50267,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Bulgaria,BG,132.97466,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,6.33409,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,7.39749,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Bulgaria,BG,61.49401,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Bulgaria,BG,46.75223,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Bulgaria,BG,360.43131,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Bulgaria,BG,8.74224,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Bulgaria,BG,146.97199,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Bulgaria,BG,326.02,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Cyprus,CY,7.72318,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Bulgaria,BG,57.00678,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Switzerland,CH,36.62591,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Switzerland,CH,46.96123,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,11480.2133,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,64.21487,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,5903.89833,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Bulgaria,BG,7556.43762,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Germany,DE,160282.79934,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,14850.34668,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,28.89268,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,117.11238,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Switzerland,CH,187.53652,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Switzerland,CH,34.01114,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,0.56778,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Cyprus,CY,1.72375,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Switzerland,CH,141.89381,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,14206.79314,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Switzerland,CH,15569.93867,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Switzerland,CH,19.20313,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Estonia,EE,1.77926,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Estonia,EE,22.01648,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,26.26664,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,2313.45861,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Cyprus,CY,2.33008,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Cyprus,CY,1792.31976,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,2019.27555,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,3.06738,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,6350.76664,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,423.25602,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,17.89695,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,367.29463,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Czech Republic,CZ,140.65089,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Czech Republic,CZ,729.97908,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Czech Republic,CZ,12.88889,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,18060.20152,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,305.61686,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,57.20144,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Czech Republic,CZ,12.86493,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,5.42925,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,2382.32896,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Germany,DE,1956.39512,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Germany,DE,1115.63471,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Germany,DE,951.08376,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,16506.87417,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,61.04274,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,388.41282,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,2399.9287,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,147624.7557,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Germany,DE,1953.03813,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Germany,DE,1103.07087,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,2575.58075,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Germany,DE,174507.245,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Germany,DE,2909.79788,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,1703.40207,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Denmark,DK,11435.81767,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,France,FR,4706.69837,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,113995.75476,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,France,FR,768.25098,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Germany,DE,154310.88114,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,3680.52688,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Germany,DE,1431.7425,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Germany,DE,1245.28827,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,230.124,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,244.55168,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Denmark,DK,630.5912,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,11942.90636,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,644.00753,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,16431.81888,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Greece,GR,144.13067,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,251.14487,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Denmark,DK,178.69164,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Denmark,DK,12340.09053,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Denmark,DK,652.7019,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,25.67084,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Croatia,HR,4289.81082,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Croatia,HR,87.51764,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,151.50262,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,60.40007,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Estonia,EE,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Bulgaria,BG,8901.53978,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Bulgaria,BG,334.86287,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Hungary,HU,11367.00581,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Hungary,HU,21.46302,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Denmark,DK,194.10633,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,135.59431,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,9503.55884,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Denmark,DK,299.7302,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Denmark,DK,255.69515,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Denmark,DK,720.87197,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Estonia,EE,170.81785,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Estonia,EE,173.93467,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Estonia,EE,2.42901,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,2061.70891,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Estonia,EE,2262.51969,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,124.64351,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Switzerland,CH,116.6038,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Switzerland,CH,116.34864,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Switzerland,CH,114.39006,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Switzerland,CH,19.13513,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,23.4094,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,23.60474,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Ireland,IE,74.40751,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Ireland,IE,9.79709,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Ireland,IE,4787.50828,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Ireland,IE,57.80016,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,2.23547,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Estonia,EE,52.57664,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,2097.94424,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,3344.64301,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Spain,ES,144.25801,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Spain,ES,117.1156,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Iceland,IS,527.45286,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,60.44249,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Estonia,EE,1504.76833,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Spain,ES,81082.18423,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,2174.07414,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,105527.67241,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Italy,IT,222.36481,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Italy,IT,1116.16883,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Italy,IT,680.39911,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,1996.10763,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,19.15558,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,2700.92904,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,270.57139,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Spain,ES,234.39728,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,4436.36751,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,5.9649,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Lithuania,LT,391.39112,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Lithuania,LT,15.64928,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Lithuania,LT,85.44155,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,51266.62216,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,5391.63921,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,133.00999,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Luxembourg,LU,0.2167,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Luxembourg,LU,4792.31716,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Luxembourg,LU,23.42202,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,598.71116,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Latvia,LV,17.9752,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Latvia,LV,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Latvia,LV,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,242.1245,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,192.82702,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Finland,FI,9.21833,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,96.13071,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,2.20843,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Finland,FI,35.98595,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,686.24879,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,1067.15262,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,51.04657,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,11068.35915,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Finland,FI,32.66862,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,535.43037,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Finland,FI,409.67791,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Poland,PL,31.92479,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Poland,PL,864.22018,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,404.91263,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Portugal,PT,451.28745,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,265.16556,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,11011.25029,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Finland,FI,64.11026,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,449.49371,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,France,FR,126047.55437,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,1023.46467,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,France,FR,1199.91101,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,France,FR,1295.92398,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,France,FR,4346.1846,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,France,FR,130549.87632,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,France,FR,510.13089,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,France,FR,6113.92519,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,France,FR,4595.47533,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,France,FR,126489.25654,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,France,FR,414.13006,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,494.74274,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,France,FR,551.6846,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,France,FR,392.10385,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Romania,RO,16214.83022,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Romania,RO,500.86974,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Romania,RO,131.9341,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,1287.29636,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,687.30745,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,655.52083,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Greece,GR,222.39265,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,1940.94329,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,1902.13377,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Greece,GR,19484.82815,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Slovenia,SI,3762.50792,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Greece,GR,1679.7133,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,1083.63822,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,604.29584,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Greece,GR,474.13586,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,14973.45105,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Greece,GR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Greece,GR,2446.67485,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,8.09794,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,415.62953,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,5702.42628,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Croatia,HR,153.50073,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,2862.12008,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Turkey,TR,31850.47345,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,516.6023,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Turkey,TR,374.28456,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,5943.69762,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,135.77894,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,133.66555,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,31.37332,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,100.67239,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Croatia,HR,64.64227,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,326.17881,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,413.97919,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,United Kingdom (Convention),UK,110116.39101,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,8465.10702,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,United Kingdom (Convention),UK,6286.27964,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,252.89685,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,401.29863,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,3.7135,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Hungary,HU,3.77774,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Hungary,HU,12.87781,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,6.65727,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Hungary,HU,4.03948,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Hungary,HU,8641.83597,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,598.74552,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Hungary,HU,100.58602,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Hungary,HU,108.97862,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,64.58925,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Croatia,HR,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Hungary,HU,299.27947,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,142.28967,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Hungary,HU,93.85152,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Ireland,IE,51.71058,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Ireland,IE,137.64994,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Ireland,IE,40.97007,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Ireland,IE,10369.53158,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Ireland,IE,11750.89365,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Ireland,IE,125.09843,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Ireland,IE,166.73516,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Ireland,IE,10985.08546,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Ireland,IE,136.3073,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,22.76636,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Iceland,IS,833.43969,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,21.31765,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,621.87406,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Iceland,IS,35.48278,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Iceland,IS,27.98921,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,3869.15796,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,93950.36277,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Iceland,IS,923.05439,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,1506.24008,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Italy,IT,2977.88706,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Iceland,IS,12.73268,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Italy,IT,413.92257,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,77.62434,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Liechtenstein,LI,0.07601,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,76.56768,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,91.20596,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Italy,IT,686.63361,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Italy,IT,52.78799,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,5982.59599,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0.04101,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Lithuania,LT,5337.17681,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Lithuania,LT,72.68759,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,10.86441,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Czech Republic,CZ,8.77285,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,15.98159,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Czech Republic,CZ,58.06108,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Lithuania,LT,1.66497,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Lithuania,LT,1.43249,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,5231.02073,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,13.30368,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,2909.40876,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Lithuania,LT,243.73448,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Lithuania,LT,9.07443,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0.07968,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,59.27348,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Germany,DE,2087.87193,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Germany,DE,1191.55393,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,0.50506,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Luxembourg,LU,1.44784,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Lithuania,LT,4133.24709,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Lithuania,LT,19.96213,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,27.33483,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Luxembourg,LU,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,207.05204,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,6450.25834,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,1.40382,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Luxembourg,LU,1.22598,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Luxembourg,LU,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Luxembourg,LU,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,0.53989,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,2555.71066,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Latvia,LV,0.43696,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Latvia,LV,1982.84764,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,2986.16408,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Latvia,LV,230.27352,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,2441.95077,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Latvia,LV,1.11941,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Malta,MT,0.76218,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Malta,MT,304.4807,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Malta,MT,59.22728,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,3102.65239,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Latvia,LV,233.80474,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Latvia,LV,0.75928,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Latvia,LV,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,0.66502,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Luxembourg,LU,6.46432,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,823.29587,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,2.0767,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Malta,MT,518.8298,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Latvia,LV,1.64573,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,30.54437,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Malta,MT,4.07459,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Malta,MT,80.63665,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Norway,NO,1196.89489,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Norway,NO,2181.39006,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Norway,NO,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Netherlands,NL,31766.76656,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Netherlands,NL,90.99903,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Netherlands,NL,91.74768,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,114.54522,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Malta,MT,525.04049,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Malta,MT,547.99849,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Malta,MT,24.93364,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Malta,MT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,101.97132,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,52119.7111,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Poland,PL,513.98536,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Norway,NO,1712.36581,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,57.10911,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Netherlands,NL,26761.41042,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Netherlands,NL,33166.83722,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Netherlands,NL,98.88722,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,750.7791,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Netherlands,NL,1021.08033,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Norway,NO,10107.55184,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Norway,NO,9911.77531,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Norway,NO,1144.60616,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Norway,NO,8482.58622,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,54.65089,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,2242.01912,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,1700.25285,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,180.27989,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,9585.57511,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,18907.64335,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Portugal,PT,52.88016,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Portugal,PT,34.87342,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,231.45546,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Portugal,PT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,64.41227,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Poland,PL,585.53852,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Poland,PL,291.69382,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Poland,PL,1775.42215,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Poland,PL,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Poland,PL,58.44593,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Poland,PL,152.07794,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,7759.53807,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,10682.835,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Romania,RO,1162.78693,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Romania,RO,67.01436,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,15925.89426,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Portugal,PT,323.16924,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Portugal,PT,151.3055,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Poland,PL,26986.22748,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Poland,PL,397.5838,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,11.42281,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,21.83948,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Portugal,PT,203.44447,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,361.59618,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,65.40256,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,390.96892,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,18104.24343,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Sweden,SE,268.56466,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Portugal,PT,18280.92469,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Portugal,PT,197.80484,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Romania,RO,25.08006,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Romania,RO,335.86075,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Romania,RO,84.55624,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Romania,RO,1007.096,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,5.87849,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Romania,RO,496.08012,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Romania,RO,184.56732,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Romania,RO,38.19234,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Sweden,SE,17483.11334,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,44.12121,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,308.23477,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,247.4638,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,214.31641,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,484.40168,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Sweden,SE,18938.19555,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Sweden,SE,75.35672,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Slovakia,SK,0.33028,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,298.70778,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovenia,SI,33.42114,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,5694.90252,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Slovenia,SI,4.3765,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Slovenia,SI,1.07807,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,552.93571,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,15771.32462,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Sweden,SE,588.17357,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,5.17582,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,4144.57795,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Slovakia,SK,97.32447,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,0.02271,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Turkey,TR,24777.1687,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Turkey,TR,621.39528,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,3.7703,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Slovakia,SK,6342.55226,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,172.12771,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Slovakia,SK,4.80679,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Slovenia,SI,1.96887,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Slovenia,SI,2.02777,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Slovenia,SI,2654.00134,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Slovenia,SI,5214.94332,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Slovenia,SI,72.77251,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Slovenia,SI,42.6356,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,2.76776,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,825.29272,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,116422.11939,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,1681.6644,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,1714.24398,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,508.7111,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Turkey,TR,4281.05969,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Turkey,TR,39941.38787,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Turkey,TR,712.99354,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,179.54536,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,United Kingdom (Convention),UK,1519.59286,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,1999.41381,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,476.74532,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,1553.16137,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Turkey,TR,720.76522,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,113958.35688,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,United Kingdom (Convention),UK,7642.04798,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,2161.58301,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,United Kingdom (Convention),UK,2016.44535,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,United Kingdom (Convention),UK,5421.42689,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Estonia,EE,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Estonia,EE,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Estonia,EE,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Spain,ES,3456.54062,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Spain,ES,3512.91357,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Austria,AT,196.14878,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Austria,AT,338.27939,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Austria,AT,459.12056,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,234.10525,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,162.04963,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Finland,FI,535.74638,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,12017.4673,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,0.75074,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Croatia,HR,96.39046,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,12227.41018,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Hungary,HU,211.63945,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Ireland,IE,148.86637,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Ireland,IE,85.76946,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Ireland,IE,152.65299,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Ireland,IE,266.45872,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Ireland,IE,62.857,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Iceland,IS,32.00123,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Iceland,IS,28.02402,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Italy,IT,2741.06046,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Italy,IT,97729.07248,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,483.55523,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Italy,IT,5542.92809,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Italy,IT,869.07235,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0.06527,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Liechtenstein,LI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Lithuania,LT,8.22568,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Luxembourg,LU,11.88901,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,1.13954,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Latvia,LV,0.06638,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Latvia,LV,194.71404,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Latvia,LV,15.09991,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,30.35348,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,29266.66424,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Netherlands,NL,1184.48618,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Netherlands,NL,235.01805,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Norway,NO,107.37808,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Portugal,PT,264.60722,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Romania,RO,26.69433,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,8451.7772,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Romania,RO,13181.76803,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Sweden,SE,587.24743,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,630.23343,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,2.83804,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,34.59658,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,4588.64481,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Slovakia,SK,6547.01694,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,1406.20993,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,922.93122,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Turkey,TR,3098.58807,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,75594.52248,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Turkey,TR,969.93789,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2016
+20183105,EEA,Turkey,TR,390.21812,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,United Kingdom (Convention),UK,110434.65486,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,1471.38597,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,578.83128,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Belgium,BE,24049.22398,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,4925.93148,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Bulgaria,BG,69.98666,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Bulgaria,BG,45.19666,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Bulgaria,BG,380.55905,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Switzerland,CH,254.78205,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,1200.39876,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Cyprus,CY,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Czech Republic,CZ,10.09686,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Czech Republic,CZ,327.54783,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Czech Republic,CZ,151.77525,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Germany,DE,2783.93888,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Denmark,DK,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Estonia,EE,5.57642,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Estonia,EE,1.41223,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Estonia,EE,2278.77996,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Spain,ES,78394.89966,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Spain,ES,83881.85049,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Spain,ES,309.46196,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2000
+20183105,EEA,Finland,FI,382.81229,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Finland,FI,188.23683,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Finland,FI,11818.14239,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Finland,FI,11940.94585,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,France,FR,215.55096,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Greece,GR,70.05663,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Greece,GR,140.85732,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Croatia,HR,31.67744,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Croatia,HR,3585.17085,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Croatia,HR,117.56475,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Hungary,HU,4.14967,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Hungary,HU,7961.56203,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Hungary,HU,195.64829,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Hungary,HU,28.97508,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Ireland,IE,200.11795,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Ireland,IE,141.70691,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Iceland,IS,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Italy,IT,113185.24746,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Italy,IT,5314.60056,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Lithuania,LT,177.11321,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2016
+20183105,EEA,Lithuania,LT,38.30519,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Lithuania,LT,56.71969,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Luxembourg,LU,5471.63898,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2016
+20183105,EEA,Latvia,LV,1.96469,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Malta,MT,1.20268,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Netherlands,NL,85.48926,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,1990
+20183105,EEA,Netherlands,NL,42.42906,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
+20183105,EEA,Netherlands,NL,105.55355,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Netherlands,NL,342.39701,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Norway,NO,44.23685,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,117.20224,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Poland,PL,18504.04102,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Poland,PL,47146.05839,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.b,1.A.3.b - Road Transportation,Gg CO2 equivalent,2010
+20183105,EEA,Poland,PL,142.77121,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Sweden,SE,101.78515,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,1990
+20183105,EEA,Sweden,SE,60.40621,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Sweden,SE,300.97447,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,2000
+20183105,EEA,Slovenia,SI,0,IPCC Common Reporting Format,�,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,2.67279,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2000
+20183105,EEA,Slovakia,SK,3.58969,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2016
+20183105,EEA,Slovakia,SK,92.35061,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.c,1.A.3.c - Railways,Gg CO2 equivalent,2010
+20183105,EEA,Slovakia,SK,0.02454,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Slovakia,SK,1815.69964,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,Turkey,TR,623.2674,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.d,1.A.3.d - Domestic Navigation,Gg CO2 equivalent,2000
+20183105,EEA,Turkey,TR,39.32836,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.e,1.A.3.e - Other Transportation,Gg CO2 equivalent,1990
+20183105,EEA,United Kingdom (Convention),UK,1838.57256,IPCC Common Reporting Format,,1.A.3,All greenhouse gases - (CO2 equivalent),1.A.3.a,1.A.3.a - Domestic Aviation,Gg CO2 equivalent,2010
